@@ -50,7 +50,7 @@ track-fit/
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/track-fit.git
+   git clone https://github.com/NavenRaam/track-fit.git
    cd track-fit
    ```
 
