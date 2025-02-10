@@ -85,6 +85,13 @@ To enhance the development experience, the project includes VS Code settings in 
 
 ---
 
+## 🚧 Project Status: Under Development 🚧
+
+Track Fit is currently a work in progress, with new features and improvements being actively integrated. Some functionalities may 
+be incomplete or subject to change. Stay tuned for updates as we enhance the platform to deliver a seamless fitness management experience!
+
+---
+
 ## 🤝 Contributing
 
 Contributions are always welcome! Feel free to **fork** the repository and submit a **pull request** with your improvements.
